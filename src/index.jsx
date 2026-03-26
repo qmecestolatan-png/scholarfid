@@ -5,7 +5,7 @@ const index = () => {
   return (
     <View>
       <Text>Home asdasd</Text>
-    </View>
+    </View> 
   )
 }
 
